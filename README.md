@@ -7,7 +7,7 @@ This GitHub organization hosts the code produced by the Cambridge Tech Collectiv
 We (Cambridge Tech Collective) are a group of volunteers.
 Our mission is to use tech to improve the lives of residents in Cambridge, Ontario.
 This collective is open to all — not just people in tech.
-Come say hello in our [Discord channel](https://discord.com/channels/1153758424098676806) and ask us about our weekly meeting. 😊
+Come say hello in our [Discord channel](https://discord.com/channels/1153758424098676806) and ask us about joining our weekly meeting. 😊
 
 ## Useful links
 
